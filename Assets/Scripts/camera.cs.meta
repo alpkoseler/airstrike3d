@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5f79e5695b127c428ac92e79fb7bec7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - namlu: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - cross: {instanceID: 0}
+  - silah_sesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
